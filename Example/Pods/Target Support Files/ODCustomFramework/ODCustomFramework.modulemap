@@ -1,0 +1,6 @@
+framework module ODCustomFramework {
+  umbrella header "ODCustomFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

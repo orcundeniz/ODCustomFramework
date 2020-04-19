@@ -1,0 +1,22 @@
+{
+  "name": "ODCustomFramework",
+  "version": "0.1.0",
+  "summary": "A short description of ODCustomFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/deniz.orcun@outlook.com/ODCustomFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "deniz.orcun@outlook.com": "deniz.orcun@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/deniz.orcun@outlook.com/ODCustomFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ODCustomFramework/Classes/**/*"
+}
