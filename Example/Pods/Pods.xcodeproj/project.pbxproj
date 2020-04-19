@@ -39,7 +39,7 @@
 /* Begin PBXFileReference section */
 		0DC1B6306AE4288C73EC78FED4FFF7C3 /* Pods-ODCustomFramework_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ODCustomFramework_Tests-umbrella.h"; sourceTree = "<group>"; };
 		0ED364EE5FB6A6B8DEE66FC09735A304 /* Pods-ODCustomFramework_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ODCustomFramework_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		108F5BFBD0ED8428762C96759F3DEFF3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		108F5BFBD0ED8428762C96759F3DEFF3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		19D79057E08DCC793C5426A2C063443C /* ODCustomFramework.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ODCustomFramework.modulemap; sourceTree = "<group>"; };
 		2030CA34A664054FC9DE8C1C8F169D61 /* ODCustomFramework.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ODCustomFramework.release.xcconfig; sourceTree = "<group>"; };
 		22A32822E0578F4F467287A93972EF2A /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = ODCustomFramework/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
@@ -55,21 +55,21 @@
 		851870C96B956DA6EFBF01AC770433A8 /* Pods-ODCustomFramework_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ODCustomFramework_Tests-dummy.m"; sourceTree = "<group>"; };
 		8B2B3A8E317235BEDE13787AEDC1688A /* ODCustomFramework-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ODCustomFramework-dummy.m"; sourceTree = "<group>"; };
 		8B4663146B361FCD13EBFF11AD3BDA81 /* ODCustomFramework-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ODCustomFramework-umbrella.h"; sourceTree = "<group>"; };
-		8B7D130C24661EAA1E0BBCE028587E21 /* Pods_ODCustomFramework_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ODCustomFramework_Example.framework; path = "Pods-ODCustomFramework_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9972289E85D0B848CFCE92C5593E36BF /* Pods_ODCustomFramework_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ODCustomFramework_Tests.framework; path = "Pods-ODCustomFramework_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8B7D130C24661EAA1E0BBCE028587E21 /* Pods_ODCustomFramework_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ODCustomFramework_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9972289E85D0B848CFCE92C5593E36BF /* Pods_ODCustomFramework_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ODCustomFramework_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CDFA9DBABA1547D909C23431FAFC185 /* Pods-ODCustomFramework_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ODCustomFramework_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A5331EF1E5B778DEA2D27C41481109EA /* Pods-ODCustomFramework_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ODCustomFramework_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		B11A1391E8B5C89DF059B17845F03E97 /* Pods-ODCustomFramework_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ODCustomFramework_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		B267D873D750E6BE3B09484DD67D3CD2 /* ODCustomFramework-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ODCustomFramework-prefix.pch"; sourceTree = "<group>"; };
-		B3F0EFAED0DE7DDFB2003C076C8362DB /* ODCustomFramework.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ODCustomFramework.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		B3F0EFAED0DE7DDFB2003C076C8362DB /* ODCustomFramework.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = ODCustomFramework.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		C113F6641306FFD232F167C371BE6557 /* Pods-ODCustomFramework_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ODCustomFramework_Example-frameworks.sh"; sourceTree = "<group>"; };
-		DABEE518AA0FC995ED70EFFD645190A7 /* ODCustomFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ODCustomFramework.framework; path = ODCustomFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DABEE518AA0FC995ED70EFFD645190A7 /* ODCustomFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ODCustomFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0D96BD5AE1F210C3B257E5C79579026 /* Pods-ODCustomFramework_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ODCustomFramework_Tests.modulemap"; sourceTree = "<group>"; };
 		F676FB188BD013955CA269AA374D8DE4 /* Pods-ODCustomFramework_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ODCustomFramework_Example.release.xcconfig"; sourceTree = "<group>"; };
 		F71D4837F62B80AD89C3565257585EB5 /* ODCustomFramework.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ODCustomFramework.debug.xcconfig; sourceTree = "<group>"; };
 		F73975FF22FD7AF9E09DE8D7477A02BD /* ODCustomFramework-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ODCustomFramework-Info.plist"; sourceTree = "<group>"; };
-		F9B54BBB964CA35350F7282AEB674F2A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		F9B54BBB964CA35350F7282AEB674F2A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -422,7 +422,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/ODCustomFramework/ODCustomFramework-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/ODCustomFramework/ODCustomFramework-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/ODCustomFramework/ODCustomFramework.modulemap";
 				PRODUCT_MODULE_NAME = ODCustomFramework;
@@ -430,7 +430,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -453,7 +453,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/ODCustomFramework/ODCustomFramework-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/ODCustomFramework/ODCustomFramework-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/ODCustomFramework/ODCustomFramework.modulemap";
 				PRODUCT_MODULE_NAME = ODCustomFramework;
@@ -461,7 +461,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -622,8 +622,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
