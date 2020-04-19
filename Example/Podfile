@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ODCustomFramework_Example' do
+  pod 'ODCustomFramework', :path => '../'
+
+  target 'ODCustomFramework_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
