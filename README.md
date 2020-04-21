@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/ODCustomFramework.svg?style=flat)](https://cocoapods.org/pods/ODCustomFramework)
 [![Platform](https://img.shields.io/cocoapods/p/ODCustomFramework.svg?style=flat)](https://cocoapods.org/pods/ODCustomFramework)
 
+[![Build Status](https://travis-ci.com/orcundeniz/ODCustomFramework.svg?branch=master)](https://travis-ci.com/orcundeniz/ODCustomFramework)
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
