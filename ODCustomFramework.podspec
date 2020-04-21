@@ -17,6 +17,6 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/orcundeniz/ODCustomFramework.git', :tag => s.version.to_s }
   s.ios.deployment_target = '12.0'
   s.swift_version = ['5.0', '5.1', '5.2']
-  s.source_files = 'ODCustomFramework/Classes/**/*'
+  s.source_files = 'Sources/ODCustomFramework/Classes/**/*'
 end
 
